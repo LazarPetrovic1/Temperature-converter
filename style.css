@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: maroon;
+  height: 100vh;
+}
+input[placeholder] {
+  height: 33.33vh;
+  width: 100vw;
+  background-color: black;
+  font-size: 10em;
+  text-align: center;
+  color: ivory;
+  font-weight: bold;
+}
